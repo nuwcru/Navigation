@@ -9,6 +9,6 @@
 * [Central Repo](https://github.com/nuwcru/ipm_DSpolarbear) - *initial repository to get things organized for incoming files*
 
 
-## KRMP PEFA 
+## Kivalliq Raptor Monitoring Program 
 
-## Baffin Raptor Monitoring
+## Baffin Raptor Monitoring Program
