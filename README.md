@@ -1,12 +1,9 @@
 ## LTEMP
-#### Writing
 * [Reporting](https://github.com/nuwcru/ltemp_reporting) - *central location for all annual LTEMP reports*
-#### Analysis
 * [Camera Migration](https://github.com/nuwcru/ltemp_camera-mig) - *Caribou detections with remote cameras in the calving grounds*
 * [Pellet Counts](https://github.com/nuwcru/ltemp_pellet) - *2018 analysis of historical pellet counts in the calving grounds*
 * [Percent Cover](https://github.com/nuwcru/ltemp_perc-cover) - *In progress, development of methods to replicate Chen et al. 2010*
 * [Species Richness](https://github.com/nuwcru/ltemp_speciesrich) - *Species richness analysis for veg*
-#### Field
 * [Environmental Monitoring Units](https://github.com/nuwcru/EMU) - *Instructions for the construction of EMUs, forked from Mickley* 
 
 ## DS Polar Bear 
