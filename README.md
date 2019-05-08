@@ -11,6 +11,6 @@
 
 
 ## Kivalliq Raptor Monitoring Program 
-* [Image Labeling](https://github.com/nuwcru/OpenLabeling) - *used to draw bounding boxes around subjects within images*
+* [Image Labeling](https://github.com/nuwcru/krmp_OpenLabeling) - *used to draw bounding boxes around subjects within images*
 
 ## Baffin Raptor Monitoring Program
