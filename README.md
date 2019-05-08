@@ -1,4 +1,4 @@
-### LTEMP
+## LTEMP
 #### Writing
 * [Reporting](https://github.com/nuwcru/ltemp_reporting) - *central location for all annual LTEMP reports*
 #### Analysis
@@ -9,11 +9,11 @@
 #### Field
 * [Environmental Monitoring Units](https://github.com/nuwcru/EMU) - *Instructions for the construction of EMUs, forked from Mickley* 
 
-### DS Polar Bear 
+## DS Polar Bear 
 * [Central Repo](https://github.com/nuwcru/ipm_DSpolarbear) - *initial repository to get things organized for incoming files*
 
 
-### Kivalliq Raptor Monitoring Program 
+## Kivalliq Raptor Monitoring Program 
 * [Image Labeling](https://github.com/nuwcru/OpenLabeling) - *used to draw bounding boxes around subjects within images*
 
-### Baffin Raptor Monitoring Program
+## Baffin Raptor Monitoring Program
