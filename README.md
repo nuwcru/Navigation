@@ -12,5 +12,6 @@
 
 ## Kivalliq Raptor Monitoring Program 
 * [Image Labeling](https://github.com/nuwcru/krmp_OpenLabeling) - *used to draw bounding boxes around subjects within images*
+* [Image Cropping](https://github.com/nuwcru/krmp_image-crop) - *Python script to crop images, and a class list for labeling*
 
 ## Baffin Raptor Monitoring Program
