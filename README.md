@@ -1,8 +1,8 @@
 #### Table of contents
-| [LTEMP](#ltemp) | 
+[LTEMP](#ltemp) | 
 [DS Polar Bear](#ds-polar-bear) |
 [KRMP](#kivalliq-raptor-monitoring-program) |
-[BIM](#baffin-raptor-monitoring-program) |
+[BIM](#baffin-raptor-monitoring-program) 
 
 ## LTEMP
 * [Reporting](https://github.com/nuwcru/ltemp_reporting) - *central location for all annual LTEMP reports*
