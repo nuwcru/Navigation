@@ -1,7 +1,8 @@
 #### Table of contents
-[LTEMP](#ltemp) | 
-[DS Polar Bear](#ds-polar-bear) |
-[KRMP](#kivalliq-raptor-monitoring-program) |
+[LTEMP](#ltemp)  
+[DS Polar Bear](#ds-polar-bear) 
+[KRMP](#kivalliq-raptor-monitoring-program) 
+  * [Image Class](#ml-image-classification)
 [BIM](#baffin-raptor-monitoring-program) 
 
 ## LTEMP
@@ -18,6 +19,7 @@
 
 
 ## Kivalliq Raptor Monitoring Program 
+### ML Image Classification
 * [Image Labeling](https://github.com/nuwcru/krmp_OpenLabeling) - *used to draw bounding boxes around subjects within images*
 * [Image Cropping](https://github.com/nuwcru/krmp_image-crop) - *python script to crop images, and a class list for labeling*
 
