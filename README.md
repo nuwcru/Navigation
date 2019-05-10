@@ -2,7 +2,6 @@
 [LTEMP](#ltemp) |
 [DS Polar Bear](#ds-polar-bear) |
 [KRMP](#kivalliq-raptor-monitoring-program) |
-[Image Class](#ml-image-classification) |
 [BIM](#baffin-raptor-monitoring-program) 
 
 ## LTEMP
