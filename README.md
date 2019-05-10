@@ -1,9 +1,9 @@
 #### Table of contents
-[LTEMP](#ltemp)  
-[DS Polar Bear](#ds-polar-bear) 
-[KRMP](#kivalliq-raptor-monitoring-program) 
+* [LTEMP](#ltemp)  
+* [DS Polar Bear](#ds-polar-bear) 
+* [KRMP](#kivalliq-raptor-monitoring-program) 
   * [Image Class](#ml-image-classification)
-[BIM](#baffin-raptor-monitoring-program) 
+* [BIM](#baffin-raptor-monitoring-program) 
 
 ## LTEMP
 * [Reporting](https://github.com/nuwcru/ltemp_reporting) - *central location for all annual LTEMP reports*
