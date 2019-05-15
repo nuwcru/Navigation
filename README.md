@@ -13,7 +13,7 @@
 #### Research Resources
 * [Environmental Monitoring Units](https://github.com/nuwcru/EMU) - *Instructions for the construction of EMUs, forked from Mickley*
 * [Protocols](https://github.com/nuwcru/ltemp_protocol) - *A location to store protocols from NuWCRU and external sources (ITEX, etc.)*
-* [Sources of Data](https://github.com/nuwcru/ltemp_data-sources) - *Links to freely avaialable data (geospatial etc.)*
+* [Sources of Data/tutorials](https://github.com/nuwcru/ltemp_data-sources) - *Links to freely avaialable data (geospatial etc.) and tutorials*
 
 ## DS Polar Bear 
 * [Central Repo](https://github.com/nuwcru/ipm_DSpolarbear) - *initial repository to get things organized for incoming files*
