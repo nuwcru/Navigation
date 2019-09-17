@@ -23,5 +23,6 @@
 #### ML Image Classification
 * [Image Labeling](https://github.com/nuwcru/krmp_OpenLabeling) - *used to draw bounding boxes around subjects within images*
 * [Image Cropping](https://github.com/nuwcru/krmp_image-crop) - *python script to crop images, and a class list for labeling*
+* [Image Classification](https://github.com/nuwcru/krmp_image-class) - *classifying nest attendance, nestlings, eggs, and bands*
 
 ## Baffin Raptor Monitoring Program
