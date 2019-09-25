@@ -22,7 +22,7 @@
 * [UofA Thesis Template for LaTeX](https://github.com/nuwcru/uAlberta-Thesis-LaTeX-Template) *Forked from git user draldric*
 
 ## DS Polar Bear 
-
+* [DS Polar Bear](https://github.com/nuwcru/ipm_DSpolarbear) *This project investigates population dynamics of the Davis Strait Polar Bear sub-population*
 
 ## Kivalliq Raptor Monitoring Program 
 #### ML Image Classification
