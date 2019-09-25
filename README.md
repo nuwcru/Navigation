@@ -10,6 +10,8 @@
 * [Pellet Counts](https://github.com/nuwcru/ltemp_pellet) - *2018 analysis of historical pellet counts in the calving grounds*
 * [Percent Cover](https://github.com/nuwcru/ltemp_perc-cover) - *In progress, development of methods to replicate Chen et al. 2010*
 * [Species Richness](https://github.com/nuwcru/ltemp_speciesrich) - *Species richness analysis for veg*
+* [Central Repo](https://github.com/nuwcru/ipm_DSpolarbear) - *initial repository to get things organized for incoming files*
+
 #### Research Resources
 * [Environmental Monitoring Units](https://github.com/nuwcru/EMU) - *Instructions for the construction of EMUs, forked from Mickley*
 * [Protocols](https://github.com/nuwcru/ltemp_protocol) - *A location to store protocols from NuWCRU and external sources (ITEX, etc.)*
@@ -17,7 +19,6 @@
 * [UofA Thesis Template for LaTeX](https://github.com/nuwcru/uAlberta-Thesis-LaTeX-Template) *Forked from git user draldric*
 * [Arthropod](https://github.com/nuwcru/ltemp_arthro) - *Central location to organize arthropod work*
 ## DS Polar Bear 
-* [Central Repo](https://github.com/nuwcru/ipm_DSpolarbear) - *initial repository to get things organized for incoming files*
 
 
 ## Kivalliq Raptor Monitoring Program 
