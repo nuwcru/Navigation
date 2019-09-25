@@ -11,13 +11,14 @@
 * [Percent Cover](https://github.com/nuwcru/ltemp_perc-cover) - *In progress, development of methods to replicate Chen et al. 2010*
 * [Species Richness](https://github.com/nuwcru/ltemp_speciesrich) - *Species richness analysis for veg*
 * [Central Repo](https://github.com/nuwcru/ipm_DSpolarbear) - *initial repository to get things organized for incoming files*
+* [Arthropod](https://github.com/nuwcru/ltemp_arthro) - *Central location to organize arthropod work*
 
 #### Research Resources
 * [Environmental Monitoring Units](https://github.com/nuwcru/EMU) - *Instructions for the construction of EMUs, forked from Mickley*
 * [Protocols](https://github.com/nuwcru/ltemp_protocol) - *A location to store protocols from NuWCRU and external sources (ITEX, etc.)*
 * [Sources of Data/tutorials](https://github.com/nuwcru/ltemp_data-sources) - *Links to freely avaialable data (geospatial etc.) and tutorials*
 * [UofA Thesis Template for LaTeX](https://github.com/nuwcru/uAlberta-Thesis-LaTeX-Template) *Forked from git user draldric*
-* [Arthropod](https://github.com/nuwcru/ltemp_arthro) - *Central location to organize arthropod work*
+
 ## DS Polar Bear 
 
 
