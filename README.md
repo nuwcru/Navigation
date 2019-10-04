@@ -34,4 +34,7 @@
 * [Image Labeling](https://github.com/nuwcru/krmp_OpenLabeling) - *used to draw bounding boxes around subjects within images*
 * [Image Cropping](https://github.com/nuwcru/krmp_image-crop) - *python script to crop images, and a class list for labeling*
 
+#### Student Projects
+* [Mat Tetreault](https://github.com/nuwcru/krmp_homerange) - *PEFA Homerange and daily travel in relation to prey density and nestling demand*
+
 ## Baffin Raptor Monitoring Program
