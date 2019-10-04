@@ -38,3 +38,5 @@
 * [Mat Tetreault](https://github.com/nuwcru/krmp_homerange) - *PEFA Homerange and daily travel in relation to prey density and nestling demand*
 
 ## Baffin Raptor Monitoring Program
+
+* [BIM Central](https://github.com/nuwcru/bim_central) - *A location to host all work done for EDI reporting*
