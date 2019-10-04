@@ -14,6 +14,9 @@
 #### Rankin Inlet
 * [Central Repo](https://github.com/nuwcru/ipm_DSpolarbear) - *initial repository to get things organized for incoming files*
 * [Arthropod](https://github.com/nuwcru/ltemp_arthro) - *Central location to organize arthropod work*
+* [ARU Songbirds](https://github.com/nuwcru/ltemp_aruRan) - *Central location to organize ARU work*
+* [PFP Veg](https://github.com/nuwcru/ltemp_vegRan)*Central location to organize vegetation work*
+
 
 #### Research Resources
 * [Environmental Monitoring Units](https://github.com/nuwcru/EMU) - *Instructions for the construction of EMUs, forked from Mickley*
