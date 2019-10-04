@@ -22,7 +22,7 @@
 * [Environmental Monitoring Units](https://github.com/nuwcru/EMU) - *Instructions for the construction of EMUs, forked from Mickley*
 * [Protocols](https://github.com/nuwcru/ltemp_protocol) - *A location to store protocols from NuWCRU and external sources (ITEX, etc.)*
 * [Sources of Data/tutorials](https://github.com/nuwcru/ltemp_data-sources) - *Links to freely avaialable data (geospatial etc.) and tutorials*
-* [UofA Thesis Template for LaTeX](https://github.com/nuwcru/uAlberta-Thesis-LaTeX-Template) *Forked from git user draldric*
+* [UofA Thesis Template for LaTeX](https://github.com/nuwcru/uAlberta-Thesis-LaTeX-Template) - *Forked from git user draldric*
 
 ## DS Polar Bear 
 * [DS Polar Bear](https://github.com/nuwcru/ipm_DSpolarbear) *This project investigates population dynamics of the Davis Strait Polar Bear sub-population*
