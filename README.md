@@ -25,11 +25,11 @@
 * [UofA Thesis Template for LaTeX](https://github.com/nuwcru/uAlberta-Thesis-LaTeX-Template) - *Forked from git user draldric*
 
 ## DS Polar Bear 
-* [DS Polar Bear](https://github.com/nuwcru/ipm_DSpolarbear) *This project investigates population dynamics of the Davis Strait Polar Bear sub-population*
+* [DS Polar Bear](https://github.com/nuwcru/ipm_DSpolarbear) - *This project investigates population dynamics of the Davis Strait Polar Bear sub-population*
 
 ## Kivalliq Raptor Monitoring Program 
 #### ML Image Classification
-* [Individual Recognition](https://github.com/nuwcru/krmp_ind-recognition) *image classification to recognize individuals within and among years*
+* [Individual Recognition](https://github.com/nuwcru/krmp_ind-recognition) - *image classification to recognize individuals within and among years*
 * [Image Classification](https://github.com/nuwcru/krmp_image-class) - *classifying nest attendance, nestlings, eggs, and bands*
 * [Image Labeling](https://github.com/nuwcru/krmp_OpenLabeling) - *used to draw bounding boxes around subjects within images*
 * [Image Cropping](https://github.com/nuwcru/krmp_image-crop) - *python script to crop images, and a class list for labeling*
