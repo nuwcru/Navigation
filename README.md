@@ -17,6 +17,7 @@
 * [Arthropod](https://github.com/nuwcru/ltemp_arthro) - *Central location to organize arthropod work*
 * [ARU Songbirds](https://github.com/nuwcru/ltemp_aruRan) - *Central location to organize ARU work*
 * [PFP Veg](https://github.com/nuwcru/ltemp_vegRan) - *Central location to organize vegetation work*
+* [Environmental]{https://github.com/nuwcru/ltemp_phys} - *Environmental conditions.*
 
 
 #### Research Resources
