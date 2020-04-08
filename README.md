@@ -29,7 +29,7 @@
 
 ## DS Polar Bear 
 * [DS Polar Bear IPM](https://github.com/nuwcru/ipm_DSpolarbear) - *This project investigates population dynamics of the Davis Strait Polar Bear sub-population*
-* [DS Sea Ice work using NSIDC data](https://github.com/nuwcru/ipm_sea-ice) - *Converting binary data to geotiff, and extracting ice phenology metrics*
+* [DS Sea Ice work using NSIDC data](https://github.com/nuwcru/DS_sea-ice) - *Converting binary data to geotiff, and extracting ice phenology metrics*
 * [DS Polar bear movement](https://github.com/nuwcru/DS_polarbear_spatial) - *Building RSF's for DS Polar bears*
 
 ## Kivalliq Raptor Monitoring Program 
