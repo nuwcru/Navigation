@@ -18,6 +18,7 @@
 * [ARU Songbirds](https://github.com/nuwcru/ltemp_aruRan) - *Central location to organize ARU work*
 * [PFP Veg](https://github.com/nuwcru/ltemp_vegRan) - *Central location to organize vegetation work*
 * [Environmental](https://github.com/nuwcru/ltemp_phys) - *Environmental conditions.*
+* [nuwcru](https://github.com/nuwcru/nuwcru) - *source package that houses useful functions for graphics.*
 
 
 #### Research Resources
