@@ -39,6 +39,7 @@
 * [Image Classification](https://github.com/nuwcru/krmp_image-class) - *classifying nest attendance, nestlings, eggs, and bands*
 * [Image Labeling](https://github.com/nuwcru/krmp_OpenLabeling) - *used to draw bounding boxes around subjects within images*
 * [Image Cropping](https://github.com/nuwcru/krmp_image-crop) - *python script to crop images, and a class list for labeling*
+* [Nest Defense](https://github.com/nuwcru/krmp_nest-defense) - *Nick's MSc work on parental nest defense behaviour.*
 
 #### Student Projects
 * [Mat Tetreault](https://github.com/nuwcru/krmp_homerange) - *PEFA Homerange and daily travel in relation to prey density and nestling demand*
